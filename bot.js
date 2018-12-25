@@ -248,7 +248,7 @@ client.on('message', message => {
 
  message.author.sendMessage(`
  **
-__~~ Eight System ~~__ By: ! 'Sr , AÕ .#0001
+__~~ Ve , System ~~__ By: ! 'Sr , AÕ .#0001
 
 ╔[❖════════════❖]╗
              Prefix = ' # '
